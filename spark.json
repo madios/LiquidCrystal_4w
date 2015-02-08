@@ -1,0 +1,7 @@
+{
+  "name": “LiquidCrystal1”,
+  "author": “poofd <lfl@lc.cx>",
+  "license": "MIT",
+  "version": "0.0.10",
+  "description": "A simple library that illustrates coding conventions of a Spark Library"
+}
